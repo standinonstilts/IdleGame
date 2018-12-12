@@ -1,0 +1,7 @@
+C:\Users\Stilts\source\repos\IdleGame\IdleGame\obj\Debug\IdleGame.csprojResolveAssemblyReference.cache
+C:\Users\Stilts\source\repos\IdleGame\IdleGame\obj\Debug\IdleGame.csproj.CoreCompileInputs.cache
+C:\Users\Stilts\source\repos\IdleGame\IdleGame\bin\Debug\IdleGame.exe.config
+C:\Users\Stilts\source\repos\IdleGame\IdleGame\bin\Debug\IdleGame.exe
+C:\Users\Stilts\source\repos\IdleGame\IdleGame\bin\Debug\IdleGame.pdb
+C:\Users\Stilts\source\repos\IdleGame\IdleGame\obj\Debug\IdleGame.exe
+C:\Users\Stilts\source\repos\IdleGame\IdleGame\obj\Debug\IdleGame.pdb
